@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fire.png</file>
+        <file>Flame.tga</file>
+    </qresource>
+</RCC>

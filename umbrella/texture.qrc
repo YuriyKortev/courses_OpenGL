@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cylinder.bmp</file>
+        <file>handler.bmp</file>
+        <file>sphere.bmp</file>
+    </qresource>
+</RCC>

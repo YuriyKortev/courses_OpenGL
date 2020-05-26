@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>orange_side.bmp</file>
+        <file>parab_side.bmp</file>
+        <file>purple_side.bmp</file>
+        <file>vlue_side.bmp</file>
+    </qresource>
+</RCC>

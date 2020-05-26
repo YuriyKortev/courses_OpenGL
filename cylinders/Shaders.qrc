@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fShader.glsl</file>
+        <file>vShader.glsl</file>
+        <file>fShader_spline.glsl</file>
+        <file>vShader_spline.glsl</file>
+    </qresource>
+</RCC>
