@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blue_water.png</file>
+        <file>water_normal.jpg</file>
+        <file>barrel.jpg</file>
+        <file>box.jpg</file>
+    </qresource>
+</RCC>
